@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x19f1DD2cBa0B60045D84F935A3792ddA1700A1Dc",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x19f1dd2cba0b60045d84f935a3792dda1700a1dc",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "px Meka Senshi",
+  "SYMBOL": "pxMekaSenshi",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/pxmekaaa",
+  "SHOW_BACKGROUND": true
+}
